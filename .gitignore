@@ -1,2 +1,3 @@
-data/*.csv
-model.pkl
+payments.pkl
+*.pkl
+__pycache__
